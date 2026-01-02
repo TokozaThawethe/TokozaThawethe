@@ -11,12 +11,15 @@ Each project is documented in its own repository, showing schematic design, PCB 
 
 ## Projects
 
-### Water Leak Alarm PCB
+### [Water Leak Alarm PCB][Water_Alarm]
+
+[Water_Alarm]: https://github.com/TokozaThawethe/Water_Alarm
+
 - Description: Beginner PCB project that detects water presence and triggers an alarm.
 - Key Concepts: Basic analog electronics, component selection, schematic capture
 - Tools: KiCad
 - Status: Completed
-- Repository: ***PASTE HERE***
+- Repository: https://github.com/TokozaThawethe/Water_Alarm
 
 <h2> 🤳 Connect with me:</h2>
 
